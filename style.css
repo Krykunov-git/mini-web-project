@@ -64,7 +64,7 @@ nav {
   grid-row: 3/5;
   background-color: #dcffeb;
 }
-.aa {
+.img_block {
   display: grid;
   grid-template-columns: repeat(3, 480px);
   justify-content: center;
