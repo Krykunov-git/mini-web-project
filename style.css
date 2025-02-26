@@ -47,9 +47,6 @@ nav {
   grid-template-rows: repeat(12, 348px);
 }
 
-.el {
-  border: 3px solid red;
-}
 .first_block {
   grid-column: 1 / 4;
   grid-row: 1 / 3;
@@ -100,7 +97,7 @@ nav {
 
 .kontakt_block {
   display: grid;
-  grid-template-columns: repeat(6, 377px);
+  grid-template-columns: repeat(6, 378px);
   grid-template-rows: repeat(1, 342px);
 }
 
