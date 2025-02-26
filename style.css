@@ -97,3 +97,16 @@ nav {
   font-size: 35px;
   text-align: center;
 }
+
+.kontakt_block {
+  display: grid;
+  grid-template-columns: repeat(6, 377px);
+  grid-template-rows: repeat(1, 342px);
+}
+
+.bb {
+  display: grid;
+  border: 3px solid greenyellow;
+  justify-content: center;
+  align-items: center;
+}
