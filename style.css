@@ -44,12 +44,10 @@ nav {
 .main {
   display: grid;
   grid-template-columns: repeat(6, 252px);
-  grid-template-rows: repeat(12, 350px);
-  background-color: #dcffeb;
+  grid-template-rows: repeat(12, 347px);
 }
 
 .el {
-  border: 2px solid red;
 }
 .first_block {
   grid-column: 1 / 4;
@@ -63,8 +61,25 @@ nav {
 .third_block {
   grid-column: 1/7;
   grid-row: 3/5;
+  background-color: #dcffeb;
 }
 
 .fourth_block {
   grid-column: 1/7;
+}
+
+.title {
+  width: 135px;
+  height: 53px;
+  font-size: 35px;
+  margin: 0 auto;
+}
+.paragraf {
+  width: 624px;
+  height: 182px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.second_block_div {
+  margin-top: 250px;
 }
