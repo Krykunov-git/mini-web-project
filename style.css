@@ -1,0 +1,36 @@
+body {
+  width: 1512px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 1512px;
+  height: 70px;
+  background-color: #1abc9c;
+}
+
+.logo {
+  width: 101px;
+  height: 29px;
+}
+nav {
+  width: 357px;
+}
+
+.nav_list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.list {
+  height: 34px;
+  font-size: 25px;
+  margin-left: 15px;
+}
+
+.social_networks {
+  list-style: none;
+  display: flex;
+}
