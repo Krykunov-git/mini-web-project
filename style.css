@@ -68,7 +68,7 @@ nav {
   display: grid;
   grid-template-columns: repeat(3, 480px);
   justify-content: center;
-  padding-top: 170px;
+  padding-top: 100px;
   margin-left: 40px;
 }
 
@@ -91,7 +91,7 @@ nav {
 .second_block_div {
   margin-top: 250px;
 }
-.bb {
+.text {
   width: 353px;
   height: 53px;
   font-size: 35px;
